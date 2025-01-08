@@ -15,6 +15,7 @@ export default function App() {
       <Menu button={button} setButton={setButton}/>
       <Container state={button}/>
       <VkNews/>
+      <p>Абсолютно ненужный параграф</p>
     </div>
   );
 }
