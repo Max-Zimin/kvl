@@ -1,0 +1,13 @@
+.reels {
+    /* width: 25%; */
+    height: 1310px;
+    background-color: aliceblue;
+    text-align: center;
+    overflow: scroll;
+}
+
+.oneReels {
+height: auto;
+margin: 30px;
+overflow: hidden;
+}

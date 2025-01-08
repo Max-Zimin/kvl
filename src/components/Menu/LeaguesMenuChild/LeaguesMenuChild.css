@@ -1,0 +1,18 @@
+.leaguesMenu {
+    height: 500px;
+    width: 680px;
+    background-color: rgb(3, 3, 131);
+    display: none;
+
+}
+
+.leaguesMenu:hover {
+    display: flex;
+}
+
+.leagueImgButton {
+width: 198px;
+height: 283px;
+background-image: url('./Высшая мужская.jpg');
+border-radius: 10px;
+}

@@ -1,0 +1,16 @@
+.news {
+display: flex;
+flex-wrap: wrap;
+}
+
+.post {
+    height: auto;
+    margin-top: 35px;
+    margin-left: 35px;
+    padding: 10px;
+    overflow: hidden;
+    border: 2px solid #112aae57;
+    border-radius: 16px;
+    }
+
+    

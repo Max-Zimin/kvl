@@ -1,0 +1,13 @@
+.header {
+    background-color: #ffffff;
+    height: 242px;
+}
+.logo {
+height: 300px;
+position: absolute;
+}
+
+.headerLogo {
+padding-left: 69px;
+display: block;
+}

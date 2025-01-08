@@ -1,0 +1,7 @@
+.container {
+    display: flex;
+}
+
+.mainBlock {
+width: 75%;
+}
