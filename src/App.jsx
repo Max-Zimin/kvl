@@ -16,6 +16,7 @@ export default function App() {
       <Container state={button}/>
       <VkNews/>
       <p>Абсолютно ненужный параграф</p>
+      <div>ненужный див</div>
     </div>
   );
 }
