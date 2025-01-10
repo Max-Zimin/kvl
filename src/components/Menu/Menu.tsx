@@ -14,6 +14,8 @@ export default function Menu({ button, setButton }) {
         setButton(currentButton);
     }
 
+    return null;
+
     return (
         <>
             <div className='menu'>
